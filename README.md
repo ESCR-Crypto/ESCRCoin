@@ -1,0 +1,2 @@
+# ESCRCoin
+ESCR Crypto
